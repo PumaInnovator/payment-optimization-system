@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj",
+        "projectName": "PaymentOptimizer.Application",
+        "projectPath": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj",
+        "packagesPath": "C:\\Users\\HUAWEI\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HUAWEI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj": {
+                "projectPath": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj"
+              },
+              "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj": {
+                "projectPath": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj",
+        "projectName": "PaymentOptimizer.Domain",
+        "projectPath": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj",
+        "packagesPath": "C:\\Users\\HUAWEI\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HUAWEI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj",
+        "projectName": "PaymentOptimizer.Infrastructure",
+        "projectPath": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\HUAWEI\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HUAWEI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj": {
+                "projectPath": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

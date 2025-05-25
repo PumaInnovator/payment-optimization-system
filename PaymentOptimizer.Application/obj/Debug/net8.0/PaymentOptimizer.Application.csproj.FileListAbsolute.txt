@@ -1,0 +1,17 @@
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\bin\Debug\net8.0\PaymentOptimizer.Application.deps.json
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\bin\Debug\net8.0\PaymentOptimizer.Application.dll
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\bin\Debug\net8.0\PaymentOptimizer.Application.pdb
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\bin\Debug\net8.0\PaymentOptimizer.Domain.dll
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\bin\Debug\net8.0\PaymentOptimizer.Domain.pdb
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\obj\Debug\net8.0\PaymentOptimizer.Application.csproj.AssemblyReference.cache
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\obj\Debug\net8.0\PaymentOptimizer.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\obj\Debug\net8.0\PaymentOptimizer.Application.AssemblyInfoInputs.cache
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\obj\Debug\net8.0\PaymentOptimizer.Application.AssemblyInfo.cs
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\obj\Debug\net8.0\PaymentOptimizer.Application.csproj.CoreCompileInputs.cache
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\obj\Debug\net8.0\PaymentO.5D995D14.Up2Date
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\obj\Debug\net8.0\PaymentOptimizer.Application.dll
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\obj\Debug\net8.0\refint\PaymentOptimizer.Application.dll
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\obj\Debug\net8.0\PaymentOptimizer.Application.pdb
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\obj\Debug\net8.0\ref\PaymentOptimizer.Application.dll
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\bin\Debug\net8.0\PaymentOptimizer.Infrastructure.dll
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Application\bin\Debug\net8.0\PaymentOptimizer.Infrastructure.pdb

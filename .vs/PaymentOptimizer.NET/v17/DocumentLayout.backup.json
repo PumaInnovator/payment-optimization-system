@@ -1,0 +1,691 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.infrastructure\\paymentproviders\\paymentproviderselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|solutionrelative:paymentoptimizer.infrastructure\\paymentproviders\\paymentproviderselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.infrastructure\\persistence\\inmemoryorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|solutionrelative:paymentoptimizer.infrastructure\\persistence\\inmemoryorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|solutionrelative:paymentoptimizer.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|solutionrelative:paymentoptimizer.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|solutionrelative:paymentoptimizer.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFD4C9E-882D-48A1-AA0B-FEBB1F6FD97E}|PaymentOptimizer.API\\PaymentOptimizer.API.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACFD4C9E-882D-48A1-AA0B-FEBB1F6FD97E}|PaymentOptimizer.API\\PaymentOptimizer.API.csproj|solutionrelative:paymentoptimizer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFD4C9E-882D-48A1-AA0B-FEBB1F6FD97E}|PaymentOptimizer.API\\PaymentOptimizer.API.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACFD4C9E-882D-48A1-AA0B-FEBB1F6FD97E}|PaymentOptimizer.API\\PaymentOptimizer.API.csproj|solutionrelative:paymentoptimizer.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|solutionrelative:paymentoptimizer.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.infrastructure\\paymentproviders\\pagafacil\\pagafaciladapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|solutionrelative:paymentoptimizer.infrastructure\\paymentproviders\\pagafacil\\pagafaciladapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFD4C9E-882D-48A1-AA0B-FEBB1F6FD97E}|PaymentOptimizer.API\\PaymentOptimizer.API.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACFD4C9E-882D-48A1-AA0B-FEBB1F6FD97E}|PaymentOptimizer.API\\PaymentOptimizer.API.csproj|solutionrelative:paymentoptimizer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.infrastructure\\dtos\\paymentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|solutionrelative:paymentoptimizer.infrastructure\\dtos\\paymentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.infrastructure\\paymentproviders\\cazapagos\\cazapagosadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|solutionrelative:paymentoptimizer.infrastructure\\paymentproviders\\cazapagos\\cazapagosadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFD4C9E-882D-48A1-AA0B-FEBB1F6FD97E}|PaymentOptimizer.API\\PaymentOptimizer.API.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACFD4C9E-882D-48A1-AA0B-FEBB1F6FD97E}|PaymentOptimizer.API\\PaymentOptimizer.API.csproj|solutionrelative:paymentoptimizer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.infrastructure\\paymentproviders\\mockpaymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|solutionrelative:paymentoptimizer.infrastructure\\paymentproviders\\mockpaymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFD4C9E-882D-48A1-AA0B-FEBB1F6FD97E}|PaymentOptimizer.API\\PaymentOptimizer.API.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.api\\controllers\\diagnosticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACFD4C9E-882D-48A1-AA0B-FEBB1F6FD97E}|PaymentOptimizer.API\\PaymentOptimizer.API.csproj|solutionrelative:paymentoptimizer.api\\controllers\\diagnosticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.infrastructure\\paymentproviders\\paymentproviderssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|solutionrelative:paymentoptimizer.infrastructure\\paymentproviders\\paymentproviderssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.infrastructure\\paymentoptimizer.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|solutionrelative:paymentoptimizer.infrastructure\\paymentoptimizer.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.domain\\models\\paymentmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|solutionrelative:paymentoptimizer.domain\\models\\paymentmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.domain\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|solutionrelative:paymentoptimizer.domain\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1088A33A-0BEA-45E9-8EF2-87E7D7176CA3}|PaymentOptimizer.Tests\\PaymentOptimizer.Tests.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.tests\\mocks\\mockpaymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1088A33A-0BEA-45E9-8EF2-87E7D7176CA3}|PaymentOptimizer.Tests\\PaymentOptimizer.Tests.csproj|solutionrelative:paymentoptimizer.tests\\mocks\\mockpaymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.domain\\paymentoptimizer.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|solutionrelative:paymentoptimizer.domain\\paymentoptimizer.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.application\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|solutionrelative:paymentoptimizer.application\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1088A33A-0BEA-45E9-8EF2-87E7D7176CA3}|PaymentOptimizer.Tests\\PaymentOptimizer.Tests.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1088A33A-0BEA-45E9-8EF2-87E7D7176CA3}|PaymentOptimizer.Tests\\PaymentOptimizer.Tests.csproj|solutionrelative:paymentoptimizer.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.infrastructure\\paymentproviders\\common\\models\\simplepaymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|solutionrelative:paymentoptimizer.infrastructure\\paymentproviders\\common\\models\\simplepaymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.infrastructure\\paymentproviders\\pagafacil\\models\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|solutionrelative:paymentoptimizer.infrastructure\\paymentproviders\\pagafacil\\models\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.infrastructure\\paymentproviders\\cazapagos\\models\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|solutionrelative:paymentoptimizer.infrastructure\\paymentproviders\\cazapagos\\models\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.domain\\interfaces\\repositories\\ipaymentproviderselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|solutionrelative:paymentoptimizer.domain\\interfaces\\repositories\\ipaymentproviderselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.domain\\interfaces\\repositories\\ipaymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|solutionrelative:paymentoptimizer.domain\\interfaces\\repositories\\ipaymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.application\\dtos\\feedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|solutionrelative:paymentoptimizer.application\\dtos\\feedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.application\\paymentoptimizer.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|solutionrelative:paymentoptimizer.application\\paymentoptimizer.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.application\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|solutionrelative:paymentoptimizer.application\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|solutionrelative:paymentoptimizer.application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.domain\\interfaces\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|solutionrelative:paymentoptimizer.domain\\interfaces\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.application\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|solutionrelative:paymentoptimizer.application\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B962D97-6A42-4F60-9F26-6E672A9C39A6}|PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj|solutionrelative:paymentoptimizer.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|solutionrelative:paymentoptimizer.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.domain\\entities\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|solutionrelative:paymentoptimizer.domain\\entities\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|solutionrelative:paymentoptimizer.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.domain\\exceptions\\invalidoperationdomainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|solutionrelative:paymentoptimizer.domain\\exceptions\\invalidoperationdomainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81406D-9D72-4214-A8BF-44F17654974C}|PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj|solutionrelative:paymentoptimizer.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|d:\\documents\\documents_updates\\proyectos_net\\paymentoptimizer.net\\paymentoptimizer.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413F162B-B293-4F6F-BFB2-39397BD79522}|PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj|solutionrelative:paymentoptimizer.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "PaymentOptimizer.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAuwJIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:39:29.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Application\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "PaymentOptimizer.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAqwJMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:43:19.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentProviderSelector.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\PaymentProviderSelector.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Infrastructure\\PaymentProviders\\PaymentProviderSelector.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\PaymentProviderSelector.cs",
+              "RelativeToolTip": "PaymentOptimizer.Infrastructure\\PaymentProviders\\PaymentProviderSelector.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:28:12.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Domain\\Entities\\Order.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "PaymentOptimizer.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:58:51.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InMemoryOrderRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\Persistence\\InMemoryOrderRepository.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Infrastructure\\Persistence\\InMemoryOrderRepository.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\Persistence\\InMemoryOrderRepository.cs",
+              "RelativeToolTip": "PaymentOptimizer.Infrastructure\\Persistence\\InMemoryOrderRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:23:54.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.API\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.API\\Program.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.API\\Program.cs",
+              "RelativeToolTip": "PaymentOptimizer.API\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAqwGAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:35:21.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "PaymentOptimizer.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAqwLMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:33:31.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "PaymentOptimizer.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:53:26.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PagaFacilAdapter.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\PagaFacil\\PagaFacilAdapter.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Infrastructure\\PaymentProviders\\PagaFacil\\PagaFacilAdapter.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\PagaFacil\\PagaFacilAdapter.cs",
+              "RelativeToolTip": "PaymentOptimizer.Infrastructure\\PaymentProviders\\PagaFacil\\PagaFacilAdapter.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAuwNoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:15:12.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CazaPagosAdapter.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\CazaPagos\\CazaPagosAdapter.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Infrastructure\\PaymentProviders\\CazaPagos\\CazaPagosAdapter.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\CazaPagos\\CazaPagosAdapter.cs",
+              "RelativeToolTip": "PaymentOptimizer.Infrastructure\\PaymentProviders\\CazaPagos\\CazaPagosAdapter.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAqwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:17:32.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentDTOs.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\DTOs\\PaymentDTOs.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Infrastructure\\DTOs\\PaymentDTOs.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\DTOs\\PaymentDTOs.cs",
+              "RelativeToolTip": "PaymentOptimizer.Infrastructure\\DTOs\\PaymentDTOs.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:00:02.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PaymentOptimizer.API\\appsettings.json",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.API\\appsettings.json",
+              "RelativeToolTip": "PaymentOptimizer.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T19:21:25.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PaymentOptimizer.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.API\\appsettings.Development.json",
+              "RelativeToolTip": "PaymentOptimizer.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T21:39:57.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MockPaymentProvider.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\MockPaymentProvider.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Infrastructure\\PaymentProviders\\MockPaymentProvider.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\MockPaymentProvider.cs",
+              "RelativeToolTip": "PaymentOptimizer.Infrastructure\\PaymentProviders\\MockPaymentProvider.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:47:50.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DiagnosticController.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.API\\Controllers\\DiagnosticController.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.API\\Controllers\\DiagnosticController.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.API\\Controllers\\DiagnosticController.cs",
+              "RelativeToolTip": "PaymentOptimizer.API\\Controllers\\DiagnosticController.cs",
+              "ViewState": "AgIAABgCAAAAAAAAAAAQwC8CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:58:13.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentOptimizer.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj",
+              "RelativeToolTip": "PaymentOptimizer.Infrastructure\\PaymentOptimizer.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T18:23:19.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentProvidersSettings.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\PaymentProvidersSettings.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Infrastructure\\PaymentProviders\\PaymentProvidersSettings.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\PaymentProvidersSettings.cs",
+              "RelativeToolTip": "PaymentOptimizer.Infrastructure\\PaymentProviders\\PaymentProvidersSettings.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:02:41.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentModels.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Models\\PaymentModels.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Domain\\Models\\PaymentModels.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Models\\PaymentModels.cs",
+              "RelativeToolTip": "PaymentOptimizer.Domain\\Models\\PaymentModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:15:06.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Enums\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Domain\\Enums\\PaymentMethod.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Enums\\PaymentMethod.cs",
+              "RelativeToolTip": "PaymentOptimizer.Domain\\Enums\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:54:18.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MockPaymentProvider.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Tests\\Mocks\\MockPaymentProvider.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Tests\\Mocks\\MockPaymentProvider.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Tests\\Mocks\\MockPaymentProvider.cs",
+              "RelativeToolTip": "PaymentOptimizer.Tests\\Mocks\\MockPaymentProvider.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:37:43.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentOptimizer.Domain.csproj",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj",
+              "RelativeToolTip": "PaymentOptimizer.Domain\\PaymentOptimizer.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T22:53:22.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Application\\CreateOrderRequest.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\CreateOrderRequest.cs",
+              "RelativeToolTip": "PaymentOptimizer.Application\\CreateOrderRequest.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:27:36.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Tests\\Class1.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Tests\\Class1.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Tests\\Class1.cs",
+              "RelativeToolTip": "PaymentOptimizer.Tests\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:24:43.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\PagaFacil\\Models\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Infrastructure\\PaymentProviders\\PagaFacil\\Models\\OrderRequest.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\PagaFacil\\Models\\OrderRequest.cs",
+              "RelativeToolTip": "PaymentOptimizer.Infrastructure\\PaymentProviders\\PagaFacil\\Models\\OrderRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:33:32.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SimplePaymentRequest.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\Common\\Models\\SimplePaymentRequest.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Infrastructure\\PaymentProviders\\Common\\Models\\SimplePaymentRequest.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\Common\\Models\\SimplePaymentRequest.cs",
+              "RelativeToolTip": "PaymentOptimizer.Infrastructure\\PaymentProviders\\Common\\Models\\SimplePaymentRequest.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:38:17.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\CazaPagos\\Models\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Infrastructure\\PaymentProviders\\CazaPagos\\Models\\OrderRequest.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\PaymentProviders\\CazaPagos\\Models\\OrderRequest.cs",
+              "RelativeToolTip": "PaymentOptimizer.Infrastructure\\PaymentProviders\\CazaPagos\\Models\\OrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:34:35.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IPaymentProviderSelector.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Interfaces\\Repositories\\IPaymentProviderSelector.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Domain\\Interfaces\\Repositories\\IPaymentProviderSelector.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Interfaces\\Repositories\\IPaymentProviderSelector.cs",
+              "RelativeToolTip": "PaymentOptimizer.Domain\\Interfaces\\Repositories\\IPaymentProviderSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:16:40.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IPaymentProvider.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Interfaces\\Repositories\\IPaymentProvider.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Domain\\Interfaces\\Repositories\\IPaymentProvider.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Interfaces\\Repositories\\IPaymentProvider.cs",
+              "RelativeToolTip": "PaymentOptimizer.Domain\\Interfaces\\Repositories\\IPaymentProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:14:54.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FeeDto.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\DTOs\\FeeDto.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Application\\DTOs\\FeeDto.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\DTOs\\FeeDto.cs",
+              "RelativeToolTip": "PaymentOptimizer.Application\\DTOs\\FeeDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:26:48.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PaymentOptimizer.Application.csproj",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj",
+              "RelativeToolTip": "PaymentOptimizer.Application\\PaymentOptimizer.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T23:20:17.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDetailsDto.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\OrderDetailsDto.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Application\\OrderDetailsDto.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\OrderDetailsDto.cs",
+              "RelativeToolTip": "PaymentOptimizer.Application\\OrderDetailsDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:28:31.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Application\\Services\\IOrderService.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\Services\\IOrderService.cs",
+              "RelativeToolTip": "PaymentOptimizer.Application\\Services\\IOrderService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:41:26.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Domain\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "PaymentOptimizer.Domain\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:11:38.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\DTOs\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Application\\DTOs\\OrderItemDto.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\DTOs\\OrderItemDto.cs",
+              "RelativeToolTip": "PaymentOptimizer.Application\\DTOs\\OrderItemDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:26:10.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Application\\DTOs\\OrderDto.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Application\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "PaymentOptimizer.Application\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:21:07.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Domain\\Enums\\OrderStatus.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "PaymentOptimizer.Domain\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:09:30.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Fee.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Entities\\Fee.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Domain\\Entities\\Fee.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Entities\\Fee.cs",
+              "RelativeToolTip": "PaymentOptimizer.Domain\\Entities\\Fee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:58:10.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "PaymentOptimizer.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:57:34.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InvalidOperationDomainException.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Exceptions\\InvalidOperationDomainException.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Domain\\Exceptions\\InvalidOperationDomainException.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Exceptions\\InvalidOperationDomainException.cs",
+              "RelativeToolTip": "PaymentOptimizer.Domain\\Exceptions\\InvalidOperationDomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:56:46.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "PaymentOptimizer.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:55:30.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "PaymentOptimizer.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\Documents\\Documents_updates\\Proyectos_Net\\PaymentOptimizer.NET\\PaymentOptimizer.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "PaymentOptimizer.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:24:16.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

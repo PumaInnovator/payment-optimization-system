@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1q3rwovtLZ2qAH/lK+pIiDH2qvulBCeGkegmeQAKWhE=",
+  "Source": "PaymentOptimizer.API",
+  "BasePath": "_content/PaymentOptimizer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Domain\bin\Debug\net8.0\PaymentOptimizer.Domain.deps.json
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Domain\bin\Debug\net8.0\PaymentOptimizer.Domain.dll
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Domain\bin\Debug\net8.0\PaymentOptimizer.Domain.pdb
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Domain\obj\Debug\net8.0\PaymentOptimizer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Domain\obj\Debug\net8.0\PaymentOptimizer.Domain.AssemblyInfoInputs.cache
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Domain\obj\Debug\net8.0\PaymentOptimizer.Domain.AssemblyInfo.cs
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Domain\obj\Debug\net8.0\PaymentOptimizer.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Domain\obj\Debug\net8.0\PaymentOptimizer.Domain.dll
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Domain\obj\Debug\net8.0\refint\PaymentOptimizer.Domain.dll
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Domain\obj\Debug\net8.0\PaymentOptimizer.Domain.pdb
+D:\Documents\Documents_updates\Proyectos_Net\PaymentOptimizer.NET\PaymentOptimizer.Domain\obj\Debug\net8.0\ref\PaymentOptimizer.Domain.dll
